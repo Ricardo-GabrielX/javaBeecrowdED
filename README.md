@@ -3,7 +3,7 @@
 Este repositório documenta a minha jornada de resolução de problemas na plataforma [Beecrowd](https://www.beecrowd.com.br/) da minha equipe de estrutura de dados na FATEC. 
 
 O objetivo principal aqui é aprimorar minha lógica de programação, dominar estruturas de dados e aplicar conceitos de estrutura de dados na prática sendo com usos em matemática ou algoritmos. 
-O resumo se trata a praticar, desenvolcer raciocínio afiado, ir além do convencional.
+O resumo se trata a praticar, desenvolver raciocínio afiado, ir além do convencional.
 
 
 ##  Meu Progresso
