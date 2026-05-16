@@ -8,6 +8,8 @@ O resumo se trata a praticar, desenvolver raciocínio afiado, ir além do conven
 
 ##  Meu Progresso
 
+> Introduction.
+
 | Status | ID | Problema | Nível | Descrição (Conceitos Aplicados) |
 | :---: | :--- | :--- | :---: | :--- |
 | ✅ | **1001** | Extremely Basic | 4 | Operações matemáticas essenciais de soma de variáveis. |
@@ -27,3 +29,18 @@ O resumo se trata a praticar, desenvolver raciocínio afiado, ir além do conven
 | ✅ | **2514** | Lunar Alignment | 5 | Cálculo de ciclos futuros utilizando Mínimo Múltiplo Comum (MMC). |
 | ✅ | **2630** | Greyscale | 2 | Manipulação de pixels e aplicação de médias aritméticas e ponderadas. |
 | ✅ | **2871** | Coffee Harvest | 4 | Leitura contínua até o fim do arquivo (EOF) e acúmulo de matrizes. |
+
+> Pesquisa e Ordenação.
+
+
+| Status |    ID    | Problema            | Nível | Descrição (Conceitos Aplicados)                                                      |
+| :----: | :------: | :------------------ | :---: | :----------------------------------------------------------------------------------- |
+|    🔲   | **1162** | Train Swapping      |   5   | Ordenação com Bubble Sort e contagem de trocas necessárias para organizar os vagões. |
+|    🔲   | **1258** | T-Shirts            |   4   | Ordenação personalizada com múltiplos critérios (cor, tamanho e nome).               |
+|    🔲   | **1261** | Hay Points          |   2   | Uso de dicionário/map para associar palavras a valores e calcular salários.          |
+|    🔲   | **1566** | Height              |   8   | Ordenação eficiente de grandes volumes de dados usando Counting Sort.                |
+|    🔲   | **1588** | Help the Federation |   7   | Ordenação e comparação de resultados esportivos com regras de desempate.             |
+|    🔲   | **2312** | Medal Table         |   3   | Classificação de países utilizando ordenação por ouro, prata, bronze e nome.         |
+|    🔲   | **2835** | Elevador            |   3   | Pesquisa e verificação de intervalos para identificar o andar correto.               |
+|    ✅   | **1281** | Going to the Market |   3   | Manipulação de mapas/dicionários para controle de preços e cálculo de compras.       |
+|    ✅   | **2174** | Pomekon Collection  |   3   | Uso de conjuntos (Set) para remover duplicados e contar elementos únicos.            |
